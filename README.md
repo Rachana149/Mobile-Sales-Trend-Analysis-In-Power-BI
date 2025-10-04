@@ -23,15 +23,11 @@ Profit – Profit earned from sales
 Sales Trends – Monthly, Quarterly, and Yearly sales growth.
 Revenue & Profit KPIs – Track overall performance with DAX-based measures.
 Top Brands & Models – Identify best-selling mobiles.
-
-📊 Dashboard Features & Insights
-Sales Trends – Monthly, Quarterly, and Yearly sales growth.
-Revenue & Profit KPIs – Track overall performance with DAX-based measures.
-Top Brands & Models – Identify best-selling mobiles.
 Regional Analysis – Compare sales performance across different regions.
 Interactive Filters (Slicers) – Explore data by brand, region, and time.
 
+<"a href https://github.com/Rachana149/Mobile-Sales-Trend-Analysis-In-Power-BI/blob/main/Power%20Bi%20dashboard.png"> DASHBOARD
 
-Regional Analysis – Compare sales performance across different regions.
+✅ Conclusion
+The Mobile Sales Trend Analysis Dashboard provides a complete view of mobile sales performance. It enables businesses to monitor growth, identify profitable brands, and improve strategic decision-making.
 
-Interactive Filters (Slicers) – Explore data by brand, region, and time.
