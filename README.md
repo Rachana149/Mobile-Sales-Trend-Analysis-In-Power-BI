@@ -18,7 +18,7 @@ Model – Mobile phone model
 Quantity Sold – Number of units sold
 Revenue – Sales revenue generated
 Profit – Profit earned from sales
-<a href="">
+<a href="https://github.com/Rachana149/Mobile-Sales-Trend-Analysis-In-Power-BI/blob/main/Mobile%20Sales%20Data.xlsx">Datasets</a>
 
 📊 Dashboard Features & Insights
 Sales Trends – Monthly, Quarterly, and Yearly sales growth.
