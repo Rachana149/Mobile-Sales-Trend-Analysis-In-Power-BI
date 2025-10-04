@@ -30,6 +30,7 @@ Interactive Filters (Slicers) – Explore data by brand, region, and time.
 
  #Dashboard
  ![C:\Users\teana\Pictures\Screenshots]( https://github.com/Rachana149/Mobile-Sales-Trend-Analysis-In-Power-BI/blob/main/Power%20Bi%20dashboard.png)
+ ![C:\Users\teana\Pictures\Screenshots]( https://github.com/Rachana149/Mobile-Sales-Trend-Analysis-In-Power-BI/blob/main/Powerbi2.png)
 
 ✅ Conclusion
 The Mobile Sales Trend Analysis Dashboard provides a complete view of mobile sales performance. It enables businesses to monitor growth, identify profitable brands, and improve strategic decision-making.
