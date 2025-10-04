@@ -28,6 +28,8 @@ Interactive Filters (Slicers) – Explore data by brand, region, and time.
 
  _Dashboard Interactive <a href= "https://github.com/Rachana149/Mobile-Sales-Trend-Analysis-In-Power-BI/blob/main/Power%20Bi%20dashboard.png"> VIEW DASHBOARD</a>
 
+ 
+
 
 
 
