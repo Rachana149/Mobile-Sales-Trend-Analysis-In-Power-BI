@@ -18,6 +18,7 @@ Model – Mobile phone model
 Quantity Sold – Number of units sold
 Revenue – Sales revenue generated
 Profit – Profit earned from sales
+<a href="">
 
 📊 Dashboard Features & Insights
 Sales Trends – Monthly, Quarterly, and Yearly sales growth.
@@ -31,6 +32,7 @@ Interactive Filters (Slicers) – Explore data by brand, region, and time.
  #Dashboard
  ![C:\Users\teana\Pictures\Screenshots]( https://github.com/Rachana149/Mobile-Sales-Trend-Analysis-In-Power-BI/blob/main/Power%20Bi%20dashboard.png)
  ![C:\Users\teana\Pictures\Screenshots]( https://github.com/Rachana149/Mobile-Sales-Trend-Analysis-In-Power-BI/blob/main/Powerbi2.png)
+ ![C:\Users\teana\Pictures\Screenshots]( https://github.com/Rachana149/Mobile-Sales-Trend-Analysis-In-Power-BI/blob/main/powerbi3.png) 
 
 ✅ Conclusion
 The Mobile Sales Trend Analysis Dashboard provides a complete view of mobile sales performance. It enables businesses to monitor growth, identify profitable brands, and improve strategic decision-making.
