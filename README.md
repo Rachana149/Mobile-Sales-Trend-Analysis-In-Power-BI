@@ -26,9 +26,9 @@ Top Brands & Models – Identify best-selling mobiles.
 Regional Analysis – Compare sales performance across different regions.
 Interactive Filters (Slicers) – Explore data by brand, region, and time.
 
-<"a href https://github.com/Rachana149/Mobile-Sales-Trend-Analysis-In-Power-BI/blob/main/Power%20Bi%20dashboard.png"> DASHBOARD
+ _Dashboard Interactive <a href= "https://github.com/Rachana149/Mobile-Sales-Trend-Analysis-In-Power-BI/blob/main/Power%20Bi%20dashboard.png"> VIEW DASHBOARD</a>
 
-<"a href C:\Users\teana\Pictures\Screenshots"> Dashboard
+
 
 
 ✅ Conclusion
